@@ -17,7 +17,6 @@ repositories {
 
 dependencies {
     //cache
-    implementation("com.hazelcast:hazelcast")
     implementation("com.hazelcast:hazelcast-spring")
     implementation("org.springframework.boot:spring-boot-starter-cache")
 
